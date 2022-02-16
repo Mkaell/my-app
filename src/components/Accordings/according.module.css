@@ -1,0 +1,42 @@
+.container {
+        margin-bottom: 10px;
+        background-color: lightgray; 
+        padding: 10px 0;     
+}
+
+.according_container {
+        /* max-width: 80%; */
+        margin: 0 auto;
+}
+
+.according:hover {
+       cursor: help 
+}
+
+.according {
+       
+        flex-basis: 45%;   
+        margin-bottom: 10px; 
+        font-size: 20px; 
+        font-weight: bold;
+        height: max-content;
+ }
+
+ .info_codes {
+         color: yellow;
+ }
+
+ .success_codes {
+         color: green;
+ }
+
+ .client_codes {
+        color: red;
+}
+
+ .according_info {
+         margin-bottom: 10px;
+         font-weight: normal;
+         margin-bottom: 10px;
+ }
+
