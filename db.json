@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "test user",
+      "role": "admin",
+      "money": 300
+    },
+    {
+      "id": 2,
+      "name": "test 2",
+      "role": "admin",
+      "money": 200
+    },
+    {
+      "id": 3,
+      "name": "test 3",
+      "role": "admin 1",
+      "money": 100
+    },
+    {
+      "id": 4,
+      "name": "еуые",
+      "role": "admin 1",
+      "money": 100
+    },
+    {
+      "id": 5,
+      "name": "test2",
+      "role": "admin 1",
+      "money": 100
+    },
+    {
+      "id": 6,
+      "name": "bro",
+      "role": "admin 1",
+      "money": 100
+    },
+    {
+      "id": 7,
+      "name": "bro2",
+      "role": "admin 1",
+      "money": 100
+    },
+    {
+      "id": 8,
+      "name": "bro3",
+      "role": "admin 1",
+      "money": 100
+    }
+  ]
+}
