@@ -1,0 +1,13 @@
+.user {
+    position: relative;
+    border: 1px solid black;
+    margin: 20px auto 0;
+    padding: 20px;
+    width: 20%;
+}
+
+.btn_delete {
+    position: absolute;
+    top: 20px;
+    right: 5px;
+}

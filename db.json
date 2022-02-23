@@ -1,52 +1,40 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "test user",
-      "role": "admin",
-      "money": 300
-    },
-    {
-      "id": 2,
-      "name": "test 2",
-      "role": "admin",
-      "money": 200
-    },
-    {
-      "id": 3,
-      "name": "test 3",
+      "id": 1645547963411,
+      "name": "ьшырф",
       "role": "admin 1",
-      "money": 100
+      "money": 97
     },
     {
-      "id": 4,
-      "name": "еуые",
+      "id": 1645547966999,
+      "name": "",
       "role": "admin 1",
-      "money": 100
+      "money": 26
     },
     {
-      "id": 5,
-      "name": "test2",
+      "id": 1645547968433,
+      "name": "misha",
       "role": "admin 1",
-      "money": 100
+      "money": 70
     },
     {
-      "id": 6,
-      "name": "bro",
+      "id": 1645547979922,
+      "name": "misha!",
       "role": "admin 1",
-      "money": 100
+      "money": 736
     },
     {
-      "id": 7,
-      "name": "bro2",
+      "id": 1645547981935,
+      "name": "misha1",
       "role": "admin 1",
-      "money": 100
+      "money": 332
     },
     {
-      "id": 8,
-      "name": "bro3",
+      "id": 1645547987765,
+      "name": "",
       "role": "admin 1",
-      "money": 100
+      "money": 32
     }
   ]
 }
